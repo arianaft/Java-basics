@@ -1,3 +1,5 @@
+package metodos;
+
 public class metodos1 {
     static int sumar(int a,  int b){
         return a + b;

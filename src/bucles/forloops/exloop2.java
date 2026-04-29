@@ -1,3 +1,5 @@
+package bucles.forloops;
+
 public class exloop2 {
     public static void main(String[] args) {
         //2-Números pares del 1 al 20

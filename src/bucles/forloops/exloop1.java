@@ -1,3 +1,5 @@
+package bucles.forloops;
+
 public class exloop1{
     // 1-Números  de 1 al 10
     public static void main(String[] args) {
