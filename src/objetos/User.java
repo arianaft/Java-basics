@@ -12,6 +12,7 @@ public class User {
         this.edad = edad;
     }
     //Getters
+
     public String getNombre(){
         return nombre;
     }
@@ -26,6 +27,22 @@ public class User {
                 ", Email: " + email +
                 ", Edad: " + edad;
     }
+
+
+    //Setters
+
+   public  void setNombre(String nombre){
+        this.nombre = nombre;
+    }
+
+    public  void setEdad(int edad){
+        this.edad = edad;
+    }
+
+    public void setEmail(String email){
+        this.email = email;
+    }
+
 
 
 }
